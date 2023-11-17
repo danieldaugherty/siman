@@ -1,2 +1,12 @@
-transformers==4.29.1
+transformers==4.28
+ctransformers
 torch==2.0.1
+sentence-transformers==2.2.2
+cpm-kernels==1.0.11
+protobuf==3.20.0
+icetk
+cpm_kernels
+einops
+tqdm
+accelerate
+bitsandbytes
